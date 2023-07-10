@@ -3,4 +3,4 @@ env/
 config.py
 *.db
 *.env
-config.py
+.idea

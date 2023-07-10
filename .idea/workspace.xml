@@ -6,23 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0bf66d92-7eaa-43b7-9909-a6192e33a39f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/alembic.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/migrations/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/migrations/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/migrations/script.py.mako" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/migrations/versions/31c6e6aba792_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/auth/base_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/auth/manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/auth/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/auth/schemas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/auth/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/database.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/src/operations/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_1_3/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/router.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/router.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
